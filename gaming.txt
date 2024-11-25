@@ -1,5 +1,6 @@
 # Based on Mafraysse's Game blocklist https://github.com/Mafraysse/AdGuard_GameList-Filter/ 
 
+||gamebol.com^
 ||1001games.com^
 ||1v1.lol^
 ||1v1lol.gg^
