@@ -11255,3 +11255,15 @@ unblocked-games.s3.amazonaws.com^
 ||bagelgames.com^
 solitairegamesa.github.io^
 ||slopegamesunblocked.com^
+||slope911.com^
+||slope-game.github.io^
+||slope-unblocked-games.github.io^
+||slopeonline.online^
+||slopegame.io^
+||slopegame3d.io^
+||slopegame.net^
+||slopegameio.io^
+||slopeio.org^
+||slope.lol^
+||slopegameonline.org^
+||slope-game.online^
