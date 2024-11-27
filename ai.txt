@@ -1,5 +1,7 @@
 # Based on laylavish's AI blocklist: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
+||*.ai^
+
 ||chat.com^
 ||blackbox.ai^
 ||animegenius.ai^
