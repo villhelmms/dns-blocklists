@@ -10,3 +10,4 @@
 zone.msn.com^
 ||opera.com^
 ||minecraftmaps.com^
+||pump.fun^
