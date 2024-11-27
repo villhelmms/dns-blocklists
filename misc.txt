@@ -11,3 +11,7 @@ zone.msn.com^
 ||opera.com^
 ||minecraftmaps.com^
 ||pump.fun^
+||cpstest.com^
+||cpsgames.org^
+||cpstest.org^
+||hacker-simulator.com^
