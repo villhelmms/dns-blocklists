@@ -1,7 +1,9 @@
 # Based on laylavish's AI blocklist: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
+# All .ai Domains
 ||*.ai^
 
+# Other
 ||chat.com^
 ||blackbox.ai^
 ||animegenius.ai^
@@ -1027,3 +1029,5 @@ cloe.bytebeacon.com^
 ||disciplines.ng^
 ||nucleovisual.com^
 ||fullbloomclub.net^
+||mindro.com^
+||talkai.info^

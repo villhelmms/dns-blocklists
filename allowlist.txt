@@ -1,3 +1,7 @@
+# Windows Connection Test Domains
+||msftncsi.com^
+||msftconnecttest.com^
+# Other
 ||eklase.lv^
 ||e-klase.lv^
 ||skolo.lv^

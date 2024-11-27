@@ -11233,3 +11233,7 @@ sites.google.com/site/unblockurgames
 ||geforcenow.com^
 ||shadow.tech^
 ||nosdevoirs.fr^
+||kour.io^
+||classroom-6x.io^
+classroom6x.gitlab.io^
+||classroom6x.school^
