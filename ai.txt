@@ -1032,3 +1032,9 @@ cloe.bytebeacon.com^
 ||mindro.com^
 ||talkai.info^
 ||aichatbot.co^
+||zerogpt.com^
+gemini.google.com^
+||allenai.org^
+||suno.com^
+||oasisminecraftai.com^
+||chatgptis.org^

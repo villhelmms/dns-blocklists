@@ -1,3 +1,7 @@
+# Windows Store
+# ||store.microsoft.com^
+# dl.delivery.mp.microsoft.com^
+
 ||tiktok.com^
 ||pranx.com^
 ||hackertyper.net^
@@ -15,3 +19,7 @@ zone.msn.com^
 ||cpsgames.org^
 ||cpstest.org^
 ||hacker-simulator.com^
+||iqtestbrain.com^
+||namemc.com^
+||arealme.com^
+||makeitmeme.com^
