@@ -23,3 +23,6 @@ zone.msn.com^
 ||namemc.com^
 ||arealme.com^
 ||makeitmeme.com^
+||humanbenchmark.com^
+||guesstheprice.net^
+||higherlowergame.com^
