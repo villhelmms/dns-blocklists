@@ -1064,3 +1064,4 @@ cloe.bytebeacon.com^
 ||chatgbt.plus^
 ||askgpt.app^
 ||getmerlin.in^
+||salieckomatus.lv^

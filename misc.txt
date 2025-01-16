@@ -56,3 +56,7 @@ zone.msn.com^
 ||watch.plex.tv^
 ||justwatch.com^
 ||wheelofnames.com^
+||sporcle.com^
+||cmd.to^
+||romeo.com^
+||datemyage.com^
