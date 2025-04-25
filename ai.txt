@@ -4,6 +4,7 @@
 ||*.ai^
 
 # Other
+||chat.com^
 ||blackbox.ai^
 ||animegenius.ai^
 ||artvy.ai^
